@@ -1,3 +1,3 @@
-![Jorge Gallaga, Software Engineer and DevSecOps](https://i.imgur.com/C6NcsCk.png)
+![Jorge Gallaga, Software Engineer and DevSecOps]
 
 <a href="https://github.com/GeorgeGxx"><img src="https://github-readme-stats.vercel.app/api?username=GeorgeGxx&count_private=true" height="180" /></a> <a href="https://github.com/GeorgeGxx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeGxx&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
