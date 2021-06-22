@@ -53,7 +53,7 @@
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://i.imgur.com/LSSSvdc.png)
+![ezgif com-gif-maker](https://i.imgur.com/H0lKcvL.png)
 
 &nbsp;
 
