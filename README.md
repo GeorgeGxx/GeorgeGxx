@@ -96,6 +96,7 @@
   <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>-->
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code>
+  <code><img height="40" src="https://img.icons8.com/nolan/64/google-cloud-platform.png"></code>
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>-->
   
   </p>
