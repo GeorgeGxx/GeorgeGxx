@@ -115,7 +115,7 @@
 <a href="https://github.com/GeorgeGxx?tab=repositories">
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeGxx&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='George's favorite languages" />
+       alt="George's favorite languages" />
 </a>
   
 <a href="https://github.com/GeorgeGxx">
