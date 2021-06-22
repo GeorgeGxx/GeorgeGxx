@@ -73,8 +73,8 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/openstack.png">
-  <code><img height="40" src="https://img.icons8.com/nolan/64/ibm.png">  
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/openstack.png"></code>
+  <code><img height="40" src="https://img.icons8.com/nolan/64/ibm.png"></code>
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>-->  
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>-->  
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>-->  
