@@ -1,12 +1,12 @@
 <!-- Title -->
-<h1 align="center">Hello World 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+<h1 align="center">Let's Hack! 
+  <img src="https://img.icons8.com/cotton/64/000000/hacking.png" 
        width="30px">
   </h2></h1>
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code</p>
+<p align="center">Analyzing code to know what the input is..</p>
   
   <!-- Social Network -->
 <!--<h1 align="center">
@@ -53,7 +53,7 @@
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://i.imgur.com/H0lKcvL.png)
+<!--![ezgif com-gif-maker](https://i.imgur.com/14CEAIP.png)-->
 
 &nbsp;
 
