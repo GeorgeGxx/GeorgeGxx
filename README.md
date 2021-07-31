@@ -31,7 +31,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
   </a>-->
   
-<a href="https://es.stackoverflow.com/users/167387/george-g">
+<a href="https://es.stackoverflow.com/users/167387/george-g?tab=profile">
   <img align="center" 
        alt="Stack Overflow" 
        width="22px" 
