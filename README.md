@@ -9,8 +9,8 @@
 <p align="center">Analyzing code to know what the input is..</p>
   
   <!-- Social Network -->
-<!--<h1 align="center">
-<a href="https://www.instagram.com/">
+<h1 align="center">
+<!--<a href="https://www.instagram.com/">
   <img align="center" 
        alt="George's Instagram" 
        width="22px" 
