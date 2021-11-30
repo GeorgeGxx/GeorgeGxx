@@ -19,7 +19,6 @@
   
 <a href="https://www.linkedin.com/in/albertoarevalo">
   <img align="center"
-       target="_blank" 
        alt="Linkedin" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
