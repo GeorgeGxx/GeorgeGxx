@@ -38,9 +38,9 @@
        src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
   </a>
   
-<a href="mailto:jgallagaa@gmail.com">
+<a href="mailto:jorge.gallaga@protonmail.com">
   <img align="center" 
-       alt="Gmail" 
+       alt="ProtonMail" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
