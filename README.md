@@ -75,6 +75,7 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
+  <code><img height="40" src="https://img.icons8.com/nolan/64/docker.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/openstack.png"></code>
   <code><img height="40" src="https://img.icons8.com/nolan/64/ibm.png"></code>
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>-->  
@@ -98,6 +99,7 @@
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>-->
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>-->
   <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>-->
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/kubernetes.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code>
   <code><img height="40" src="https://img.icons8.com/nolan/64/google-cloud-platform.png"></code>
