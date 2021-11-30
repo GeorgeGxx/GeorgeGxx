@@ -63,6 +63,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Cloud"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/django.png" title="Django"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png" title="HTML5"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png" title="JavaScript"></code>
