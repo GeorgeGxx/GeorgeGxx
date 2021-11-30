@@ -70,7 +70,7 @@
   <code><img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png" title="SQL Server"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle DB"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"></code></br>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png" title="GitHub"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Bash"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png" title="Kali"></code>
