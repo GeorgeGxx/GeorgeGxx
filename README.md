@@ -42,7 +42,7 @@
   <img align="center" 
        alt="ProtonMail" 
        width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
+       src="https://img.icons8.com/fluency/50/000000/protonmail.png" />
   </a>
 </h1>
 
