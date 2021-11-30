@@ -70,6 +70,7 @@
   <code><img height="40" src="https://img.icons8.com/color/48/000000/vue-js.png" title="Vue"></code>
   <code><img height="40" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"></code>
+  <code><img height="40" src="https://img.icons8.com/nolan/64/mysql.png" title="MySQL Server"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png" title="SQL Server"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle DB"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"></code></br>
