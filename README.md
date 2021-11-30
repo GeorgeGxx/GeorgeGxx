@@ -42,7 +42,7 @@
   <img align="center" 
        alt="ProtonMail" 
        width="22px" 
-       src="https://img.icons8.com/fluency/50/000000/protonmail.png" />
+       src="https://img.icons8.com/fluency/96/000000/protonmail.png" />
   </a>
 </h1>
 
