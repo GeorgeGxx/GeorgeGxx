@@ -70,15 +70,17 @@
   <code><img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png" title="SQL Server"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle DB"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"></code></br>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"></code>
+  <code><img height="40" src="https://img.icons8.com/ios-filled/50/000000/java-eclipse.png" title="Eclipse IDE"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png" title="IntelliJ IDEA Ultimate"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png" title="VSCode"></code></br>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png" title="GitHub"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Bash"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png" title="Kali"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/splunk.png" title="Splunk"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686553-d4170380-0bbb-11eb-94f2-c528413c7bad.png" title="Virtualization"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/red-hat.png" title="RedHat"></code>  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png" title="IntelliJ IDEA Ultimate"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png" title="VSCode"></code>
+  
   <code><img height="40" src="https://img.icons8.com/nolan/64/docker.png" title="Docker"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/openstack.png" title="OpenStack"></code>
   <code><img height="40" src="https://img.icons8.com/nolan/64/ibm.png" title="IBM Cloud"></code>
