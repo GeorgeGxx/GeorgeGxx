@@ -83,7 +83,6 @@
   <code><img height="40" src="https://img.icons8.com/color/48/000000/splunk.png" title="Splunk"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/red-hat.png" title="RedHat"></code>  
   <code><img height="40" src="https://img.icons8.com/nolan/64/docker.png" title="Docker"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/openstack.png" title="OpenStack"></code>
   <code><img height="40" src="https://img.icons8.com/nolan/64/ibm.png" title="IBM Cloud"></code>
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>-->  
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>-->
