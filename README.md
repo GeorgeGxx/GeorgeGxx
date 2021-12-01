@@ -57,7 +57,7 @@
 &nbsp;
 
 <!-- Technical Skills -->
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
+<p><H3 align="center"><strong> Technical Skills: 💻 </strong></H3></p>
   
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Cloud"></code>
@@ -89,7 +89,7 @@
 &nbsp;  
 
   <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
+<p><H3 align="center"><strong>Skills to learn: 🌐</strong></H3></p>
   
   <code><img height="40" src="https://img.icons8.com/color/48/000000/kubernetes.png" title="Kubernetes"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png" title="Azure"></code>
@@ -99,9 +99,8 @@
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>-->
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>-->
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>-->
-  <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>-->
+  <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>-->  
   
-  </p>
 &nbsp;
 
 <!-- GitHub Stats -->
