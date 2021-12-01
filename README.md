@@ -1,8 +1,7 @@
 <!-- Title -->
 <h1 align="center">Let's Hack! 
-  <img src="https://img.icons8.com/cotton/64/000000/hacking.png" 
-       width="30px">
-  </h2></h1>
+  <img src="https://img.icons8.com/cotton/64/000000/hacking.png" width="30px">
+</h1>
 
 
 <!-- Quote -->
