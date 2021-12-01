@@ -57,7 +57,7 @@
 &nbsp;
 
 <!-- Technical Skills -->
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></H3></p>
+<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   <p>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Cloud"></code>
@@ -85,7 +85,7 @@
   <code><img height="40" src="https://img.icons8.com/nolan/64/ibm.png" title="IBM Cloud"></code>
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>-->  
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>-->
-  </p>
+  </H3></p>
   
 &nbsp;  
 
