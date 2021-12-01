@@ -73,7 +73,7 @@
   <code><img height="40" src="https://img.icons8.com/nolan/64/mysql.png" title="MySQL Server"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png" title="SQL Server"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle DB"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"></code></br>
   <code><img height="40" src="https://img.icons8.com/officexs/64/000000/java-eclipse.png" title="Eclipse IDE"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png" title="IntelliJ IDEA Ultimate"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png" title="VSCode"></code>
