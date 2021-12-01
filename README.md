@@ -64,12 +64,11 @@
   <code><img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Cloud"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/django.png" title="Django"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png" title="HTML5"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png" title="JavaScript"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/vue-js.png" title="Vue"></code>
   <code><img height="40" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"></code>
+  <code><img height="40" src="https://img.icons8.com/fluency/48/000000/node-js.png" title="Node"></code>
   <code><img height="40" src="https://img.icons8.com/nolan/64/mysql.png" title="MySQL Server"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png" title="SQL Server"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle DB"></code>
