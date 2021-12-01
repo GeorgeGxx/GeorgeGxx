@@ -78,9 +78,9 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png" title="IntelliJ IDEA Ultimate"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png" title="VSCode"></code>  
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Bash"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png" title="Kali"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/splunk.png" title="Splunk"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/red-hat.png" title="RedHat"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png" title="Kali"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/splunk.png" title="Splunk"></code>  
   <code><img height="40" src="https://img.icons8.com/color/48/000000/jenkins.png" title="Jenkins"></code>
   <code><img height="40" src="https://img.icons8.com/nolan/64/docker.png" title="Docker"></code>
   <code><img height="40" src="https://img.icons8.com/nolan/64/ibm.png" title="IBM Cloud"></code>
