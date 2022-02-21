@@ -45,8 +45,7 @@
   </a>
 </h1>
 
-
-
+<p align="center">Actualmente no estoy buscando empleo, gracias.</p>
 
 <!-- Background -->
 
