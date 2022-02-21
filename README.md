@@ -45,7 +45,7 @@
   </a>
 </h1>
 
-<p><h2 align="center">Actualmente no estoy buscando empleo, gracias. #2022</h2></p>
+<p><h3 align="center">#Repo #Privado #2022</h3></p>
 
 <!-- Background -->
 
