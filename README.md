@@ -45,7 +45,11 @@
   </a>
 </h1>
 
+<p><h3 align="center">Status: .. </h3></p>
+
 <p><h3 align="center">#Estudiando #para #el #examen #AWS #Practitioner #Abril #2022</h3></p>
+
+<p><h3 align="center">#Después #toca #el #examen #AWS #Architect #Asociate #{{ mes }} #2022</h3></p>
 
 <!-- Background -->
 
