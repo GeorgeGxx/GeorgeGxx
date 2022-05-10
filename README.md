@@ -47,7 +47,7 @@
 
 <p><h3 align="center">Status: .. </h3></p>
 
-<p><h3 align="center">Estudiando para la certificación AWS Practitioner y AWS Architect Associate #Abril #Mayo #2022</h3></p>
+<p><h3 align="center">In a AWS Training.</h3></p>
 
 <!-- Background -->
 
