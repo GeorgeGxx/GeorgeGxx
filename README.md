@@ -49,7 +49,7 @@
 
 <p><h3 align="center">In a AWS Training.</h3></p>
 
-<p><h4 align="center">#updating #public #and #private #repos</h4></p>
+<p><h4 align="center">Updating public & private repos..</h4></p>
 
 <!-- Background -->
 
