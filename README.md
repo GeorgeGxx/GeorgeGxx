@@ -110,7 +110,7 @@
 &nbsp;
 
 <!-- GitHub Stats -->
-<!--<H2 align="center"><strong>GitHub Statistics: 📈
+<H2 align="center"><strong>GitHub Statistics: 📈
   </strong>
 </H2>
     <p align="center">
@@ -126,4 +126,4 @@
 <a href="https://github.com/GeorgeGxx">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=GeorgeGxx&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
-</a>-->
+</a>
