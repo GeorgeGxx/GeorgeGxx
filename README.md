@@ -64,7 +64,7 @@
   <code><img height="40" src="https://img.icons8.com/office/40/undefined/spring-logo.png" title="SpringBoot"></code>
   <!--<code><img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring"></code>-->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
-  <code><img height="40" src="https://img.icons8.com/ios-filled/50/undefined/flask.png" title="Flask"></code>
+  <code><img height="40" src="https://img.icons8.com/nolan/64/flask.png" title="Flask"></code>
   <!--<code><img height="40" src="https://img.icons8.com/color/48/000000/django.png" title="Django"></code>-->
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png" title="JavaScript"></code>
   <!--<code><img height="40" src="https://img.icons8.com/color/48/000000/vue-js.png" title="Vue"></code>-->
