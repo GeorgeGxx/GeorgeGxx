@@ -72,10 +72,10 @@
   <code><img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"></code>
   <code><img height="40" src="https://img.icons8.com/fluency/48/000000/node-js.png" title="Node"></code>
   <code><img height="40" src="https://img.icons8.com/nolan/64/mysql.png" title="MySQL Server"></code>
-  <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png" title="SQL Server"></code>-->
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png" title="SQL Server"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle DB"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"></code></br>
-  <code><img height="40" src="https://img.icons8.com/color/48/undefined/redis.png" title="Redis"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/undefined/redis.png" title="Redis"></code></br>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/git.png" title="Git"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png" title="GitHub"></code>
   <code><img height="40" src="https://img.icons8.com/officexs/64/000000/java-eclipse.png" title="Eclipse IDE"></code>
