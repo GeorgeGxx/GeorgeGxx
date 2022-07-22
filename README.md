@@ -97,6 +97,7 @@
   <!-- Skills to learn -->
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   <p>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/golang.png" title="Golang"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/kubernetes.png" title="Kubernetes"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png" title="Azure"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"></code>
