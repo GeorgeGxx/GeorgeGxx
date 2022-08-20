@@ -47,7 +47,7 @@
 
 <p><h3 align="center">Status: .. </h3></p>
 
-<p><h3 align="center">On AWS projects..</h3></p>
+<p><h3 align="center">Working on AWS projects..</h3></p>
 
 <!-- Background -->
 
