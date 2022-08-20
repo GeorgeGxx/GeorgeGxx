@@ -47,7 +47,7 @@
 
 <p><h3 align="center">Status: .. </h3></p>
 
-<p><h3 align="center">In a AWS Training.</h3></p>
+<p><h3 align="center">On AWS architecture projects..</h3></p>
 
 <!-- Background -->
 
