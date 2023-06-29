@@ -82,6 +82,7 @@
   <!-- <code><img height="40" src="https://img.icons8.com/officexs/64/000000/java-eclipse.png" title="Eclipse IDE"></code> -->
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png" title="IntelliJ IDEA Community"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png" title="VSCode"></code></br>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/hacking.png" title="Hacking"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Bash"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/red-hat.png" title="RedHat"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png" title="Kali"></code>
@@ -105,9 +106,11 @@
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   <p>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/golang.png" title="Golang"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/openshift.png" title="OpenShift"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"></code>
   <code><img height="40" src="https://img.icons8.com/nolan/64/google-cloud-platform.png" title="GCP"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/hacking.png" title="Hacking"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/ai.png" title="Artificial Intelligence"></code>
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>-->
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>-->
   <!--<code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>-->
