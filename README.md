@@ -102,7 +102,7 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png" title="VSCode"></code>
   </H3></p>
   
-&nbsp;  
+<!-- &nbsp;   -->
 
   <!-- Skills to learn -->
 <!-- <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
