@@ -16,12 +16,12 @@
        src="https://img.icons8.com/fluency/48/domain.png" />
   </a>
 
-  <!-- <a href="https://georgegxx.gitlab.io">
+  <a href="https://georgegxx.gitlab.io">
   <img align="center" 
        title="Att&ckFolio" 
        width="22px" 
        src="https://img.icons8.com/color/48/000000/hacking.png" />
-  </a> -->
+  </a>
 
 <a href="https://www.linkedin.com/in/albertoarevalo">
   <img align="center"
@@ -50,7 +50,7 @@
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 <!--![ezgif com-gif-maker](https://i.imgur.com/14CEAIP.png)-->
-<!-- ![](./img/banner.gif) -->
+![](./img/banner.gif)
 <!-- [GeorFolio](https://georgegxx.github.io) | [Att&ckFolio](https://georgegxx.gitlab.io) -->
 
 &nbsp;
