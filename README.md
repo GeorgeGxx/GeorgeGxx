@@ -16,12 +16,12 @@
        src="https://img.icons8.com/fluency/48/domain.png" />
   </a>
 
-  <!-- <a href="https://georgegxx.gitlab.io">
+  <a href="https://georgegxx.gitlab.io">
   <img align="center" 
        title="Att&ckFolio" 
        width="22px" 
        src="https://img.icons8.com/color/48/000000/hacking.png" />
-  </a> -->
+  </a>
 
 <a href="https://www.linkedin.com/in/albertoarevalo">
   <img align="center"
